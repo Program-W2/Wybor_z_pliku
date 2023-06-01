@@ -1,0 +1,15 @@
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\bin\Debug\net7.0\Wybor_z_pliku.exe
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\bin\Debug\net7.0\Wybor_z_pliku.deps.json
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\bin\Debug\net7.0\Wybor_z_pliku.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\bin\Debug\net7.0\Wybor_z_pliku.dll
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\bin\Debug\net7.0\Wybor_z_pliku.pdb
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.csproj.AssemblyReference.cache
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.AssemblyInfoInputs.cache
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.AssemblyInfo.cs
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.csproj.CoreCompileInputs.cache
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.dll
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\refint\Wybor_z_pliku.dll
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.pdb
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\Wybor_z_pliku.genruntimeconfig.cache
+C:\Users\Program-W2\Desktop\Projekty Szarp\Wybor_z_pliku\obj\Debug\net7.0\ref\Wybor_z_pliku.dll

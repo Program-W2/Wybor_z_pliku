@@ -1,0 +1,26 @@
+Program musi:
+    1. Pytać użytkownika o to, co chce zrobić:
+        - wczytać do pliku V
+        - odczytać z pliku V
+
+    2. Po wybraniu opcji wczytania do pliku, program pyta o to, czy:
+        - chcemy zapisać liczbę
+        - chcemy zapisać tekst
+
+    3. Po wybraniu opcji odczytu z pliku, program pyta o to, czy:
+        - chcemy odczytać liczby
+        - chcemy odczytać tekst
+
+    4. W przypadku wczytania do pliku, program musi:
+        - Pytać użytkownika o tekst / liczbę
+        - Sprawdzać czy nie podał pustej / niepoprawnej wartości (jeśli tak, to użytkownik musi wpisać poprawną wartość)
+        - Sprawdzać czy plik istnieje (jeśli nie, utworzyć go)
+        - Zapisać tekst / liczbę, o odpowiednim prefiksie np. Liczba dla liczby, Tekst dla tekstu, oraz na samym końcu datę zapisu
+
+    5. W przypadku odczytu z pliku, program musi:
+        - Pytać użytkownika, czy chce wczytać tekst czy liczby
+        - Sprawdzać czy nie podał niepoprawnej wartości
+        - Sprawdzać czy plik istnieje
+        - Wczytać tekst / liczbę odpowiednio od wyboru prefiksu, + datę zapisu na końcu
+
+    - Wszystkie ścierzki powinny znajdywać się w unikalnej ścierzce dla pliku.
